@@ -36,4 +36,4 @@ do
 * Several of the models are still to be implemented. Feel free to send a PR if you would like to add more :)
 
 ## License
-Copyright (c) Microsoft Corporation, licensed under [The MIT License (MIT)](https://github.com/jpoon/crunchbase/blob/master/LICENSE.md).
+Copyright (c) Microsoft Corporation, licensed under [The MIT License (MIT)](https://github.com/jpoon/crunchbase/blob/master/LICENSE).
