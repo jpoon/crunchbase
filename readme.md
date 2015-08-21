@@ -1,4 +1,4 @@
-# CrunchBase C# API
+# Crunchbase v3 C# API
 
 C# API wrapper for [CrunchBase API](http://data.crunchbase.com/) version 3. 
 The models are Entity Data Models and can immediately be leveraged for Code First Migrations in Entity Framework.
