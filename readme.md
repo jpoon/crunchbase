@@ -12,7 +12,7 @@ The APIs are also async.
 
 ## Usage
 
-```
+```c#
 var crunchBase = new CrunchBase("<API_TOKEN>")
 
 do
